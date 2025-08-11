@@ -1,0 +1,8 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170918_C400_00.ret
+##  Data 18/09/2017
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002216 ######  OK! -  - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000254 ######  OK! -  - 
+00003 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002646 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00004 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000905 ######  OK! -  | ASSOCIADO ASSEGURADO! - 

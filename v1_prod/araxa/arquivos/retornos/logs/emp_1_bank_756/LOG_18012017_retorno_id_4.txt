@@ -1,0 +1,6 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170110_2_C400_00.ret
+##  Data 18/01/2017
+
+00001 TITULO 00000852421 ################# INCONSISTENTE ################ NÃO ENCONTRADO NA BASE DE DADOS.
+00002 TITULO 00000142423 ################# INCONSISTENTE ################ NÃO ENCONTRADO NA BASE DE DADOS.

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/v3/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/v3/vendor/coffeecode/paginator" />
+      <path value="$PROJECT_DIR$/v3/vendor/igorescobar/jquery-mask-plugin" />
+      <path value="$PROJECT_DIR$/v3/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/v3/vendor/composer" />
+      <path value="$PROJECT_DIR$/v3/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/v3/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/v3/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/v3/vendor/coffeecode/uploader" />
+      <path value="$PROJECT_DIR$/v3/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/v2/vendor/composer" />
+      <path value="$PROJECT_DIR$/v2/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/v2/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/v2/vendor/coffeecode/paginator" />
+      <path value="$PROJECT_DIR$/v2/vendor/igorescobar/jquery-mask-plugin" />
+      <path value="$PROJECT_DIR$/v2/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/v2/vendor/coffeecode/uploader" />
+      <path value="$PROJECT_DIR$/v2/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/v2/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/v2/vendor/matthiasmullie/minify" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

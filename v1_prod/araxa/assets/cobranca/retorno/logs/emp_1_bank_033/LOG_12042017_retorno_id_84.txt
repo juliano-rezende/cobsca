@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO COBST_YB3T_02_300317P_MOV.TXT
+##  Data 12/04/2017
+
+00000 ## INCONSISTENTE ## NÃO ENCONTRADO NA BASE DE DADOS TITULO Nº 00001830

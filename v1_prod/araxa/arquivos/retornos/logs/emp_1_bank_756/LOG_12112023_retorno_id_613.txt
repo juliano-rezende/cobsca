@@ -1,0 +1,6 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20231112_C400_00.ret
+##  Data 12/11/2023
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA ## TITULO Nº 00000008280 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA ## TITULO Nº 00000008387 ######  OK! -  - 

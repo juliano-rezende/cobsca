@@ -1,0 +1,4 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO COBST_YB3T_01_080317P_CON.TXT
+##  Data 24/04/2017
+

@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170626_C400_00.ret
+##  Data 26/06/2017
+
+00000 ## TITULO PAGO EM DUPLICIDADE ## TITULO Nº 00000002658

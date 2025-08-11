@@ -1,0 +1,84 @@
+/*
+
+################################################## UPDATE COM INNER JOIN
+
+  UPDATE dados_cobranca
+  
+  INNER JOIN formas_cobranca
+  
+  ON dados_cobranca.forma_cobranca_id = formas_cobranca.id
+  
+  SET dados_cobranca.formascobranca_sys_id = formas_cobranca.forma_cobranca_sys_id
+  
+  WHERE (dados_cobranca.forma_cobranca_id = formas_cobranca.id);
+*/
+  
+  
+  
+  
+/*
+################################################## UPDATE simples
+  
+UPDATE dados_cobranca SET empresas_id=1;
+
+*/
+
+
+SET FOREIGN_KEY_CHECKS=0;
+
+INSERT INTO associados (matricula,
+                        foto,
+                        nm_associado,
+                        estado_civil,
+                        cpf,
+                        rg,
+                        orgao_emissor_rg,
+                        data_emissao_rg,
+                        fone_cel,
+                        fone_fixo,
+                        operado_cel,
+                        fone_trabalho,
+                        email,
+                        dt_cadastro,
+                        dt_nascimento,
+                        dt_cancelamento,
+                        sexo,
+                        num,
+                        obs,
+                        casa_propria,
+                        data_ultima_alteração,
+                        spc,
+                        logradouros_id,
+                        compl_end,
+                        convenios_id,
+                        empresas_id,
+                        vendedores_id,
+                        usuarios_id
+                        ) SELECT matricula,
+                               foto,
+                               nome,
+                               estadocivil,
+                               cpf,
+                               rg,
+                               orgaoemissorrg,
+                               datadeemissaorg,
+                               fonecel,
+                               fonefixo,
+                               operadoracel,
+                               fonetrab,
+                               email,
+                               datacadastro,
+                               datanasc,
+                               dt_cancelamento,
+                               sexo,
+                               num,
+                               obs,
+                               casapropria,
+                               dataultimoacesso,
+                               spc,
+                               cdlogradouro,
+                               cdconvenio,
+                               cdempresa,
+                               cdvendedor,
+                               cdusuario                                                         
+                               FROM SCA_tbassociados limit 1; 

@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170330_C400_00.ret
+##  Data 30/03/2017
+
+00000 ## COMPENSADO ## TITULO Nº 2115 -  | PARCELA POSSUI PROCEDIMENTO. - 

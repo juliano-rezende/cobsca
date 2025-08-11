@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170320_C400_00.ret
+##  Data 20/03/2017
+
+00000 ## COMPENSADO ## TITULO Nº 1850 -  | PARCELA POSSUI PROCEDIMENTO. - 

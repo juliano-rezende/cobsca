@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/library/activerecord/lib" isTestSource="false" packagePrefix="ActiveRecord" />
+      <sourceFolder url="file://$MODULE_DIR$/library/activerecord/lib/adapters" isTestSource="false" packagePrefix="ActiveRecord" />
+      <sourceFolder url="file://$MODULE_DIR$/library/activerecord/lib/cache" isTestSource="false" packagePrefix="ActiveRecord" />
+      <sourceFolder url="file://$MODULE_DIR$/library/activerecord/test/models" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

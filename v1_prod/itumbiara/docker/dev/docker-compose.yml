@@ -1,0 +1,54 @@
+version: "3.8"
+services:
+
+  painel-web:
+    container_name: SCA-itumbiara
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "8005:80"
+    links:
+      - mysql
+    volumes:
+      - "../..:/var/www/painel"
+    networks:
+      - scaNet
+
+  mysql:
+    image: mariadb:10.6.1
+    container_name: DbScaItumbiara
+    restart: always
+    volumes:
+      - ./mysql/mysql_var/data:/var/lib/mysql
+      - ./mysql/mysql_etc/conf.d:/etc/mysql/conf.d
+    environment:
+      MYSQL_ROOT_USER: root
+      MYSQL_ROOT_PASSWORD: G4PYZOvYUxtC83UgOu1f
+    ports:
+      - "8006:3306"
+    networks:
+      - scaNet
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: PMAScaItumbiara
+    platform: linux/amd64
+    links:
+      - mysql
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 1
+      MAX_EXECUTION_TIME: 64M
+      UPLOAD_LIMIT: 300M
+    restart: always
+    ports:
+      - "8007:80"
+    networks:
+      - scaNet
+
+networks:
+  scaNet:
+    driver: bridge

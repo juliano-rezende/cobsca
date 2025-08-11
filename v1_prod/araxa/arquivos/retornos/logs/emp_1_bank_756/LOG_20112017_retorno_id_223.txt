@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20171120_C400_00.ret
+##  Data 20/11/2017
+
+00001 ## TITULO PAGO EM DUPLICIDADE OU PAGO NO CEDENTE ## TITULO Nº 00000000919-4

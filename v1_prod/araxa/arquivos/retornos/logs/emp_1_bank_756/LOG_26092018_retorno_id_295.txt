@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20180926_C400_00.ret
+##  Data 26/09/2018
+
+00001 ## TITULO PAGO EM DUPLICIDADE OU PAGO NO CEDENTE ## TITULO Nº 00000003162-4

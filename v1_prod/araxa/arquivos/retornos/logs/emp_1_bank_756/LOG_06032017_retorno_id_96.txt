@@ -1,0 +1,9 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170306_C400_00(2).ret
+##  Data 06/03/2017
+
+00000 ## COMPENSADO ## TITULO Nº 2282 -  - 
+00001 ## COMPENSADO ## TITULO Nº 2222 -  - 
+00002 ## COMPENSADO ## TITULO Nº 369 -  - 
+00003 ## COMPENSADO ## TITULO Nº 1619 -  | PARCELA POSSUI PROCEDIMENTO. - 
+00004 ## COMPENSADO ## TITULO Nº 743 -  - 

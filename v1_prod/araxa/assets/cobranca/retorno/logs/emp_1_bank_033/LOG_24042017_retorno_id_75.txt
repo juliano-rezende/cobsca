@@ -1,0 +1,9 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO COBST_YB3T_02_070417P_MOV.TXT
+##  Data 24/04/2017
+
+00000 ## COMPENSADO ## TITULO Nº 280 -  - 
+00000 ## COMPENSADO ## TITULO Nº 454 -  - 
+00000 ## COMPENSADO ## TITULO Nº 514 -  - 
+00000 ## COMPENSADO ## TITULO Nº 889 -  - 
+00000 ## COMPENSADO ## TITULO Nº 1008 -  - 

@@ -1,0 +1,30 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170809_C400_00.ret
+##  Data 10/08/2017
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001108 ######  OK! -  - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001060 ######  OK! -  - 
+00003 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001120 ######  OK! -  - 
+00004 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002203 ######  OK! -  - 
+00005 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000532 ######  OK! -  - 
+00006 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000604 ######  OK! -  - 
+00007 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000676 ######  OK! -  - 
+00008 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002645 ######  OK! -  - 
+00009 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001855 ######  OK! -  - 
+00010 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000291 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00011 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000277 ######  OK! -  - 
+00012 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000374 ######  OK! -  - 
+00013 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001879 ######  OK! -  - 
+00014 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000253 ######  OK! -  - 
+00015 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001492 ######  OK! -  - 
+00016 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002700 ######  OK! -  - 
+00017 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000628 ######  OK! -  - 
+00018 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001240 ######  OK! -  - 
+00019 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001168 ######  OK! -  - 
+00020 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001504 ######  OK! -  - 
+00021 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000217 ######  OK! -  - 
+00022 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000169 ######  OK! -  - 
+00023 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000337 ######  OK! -  - 
+00024 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000386 ######  OK! -  - 
+00025 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000000193 ######  OK! -  - 
+00026 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002107 ######  OK! -  - 

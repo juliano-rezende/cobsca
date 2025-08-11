@@ -1,0 +1,15 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20190312_C400_00(1).ret
+##  Data 12/03/2019
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005102 ######  OK! -  - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005163 ######  OK! -  - 
+00003 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005415 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00004 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004754 ######  OK! -  - 
+00005 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005427 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00006 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005487 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00007 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004670 ######  OK! -  - 
+00008 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004682 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00009 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004838 ######  OK! -  - 
+00010 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005223 ######  OK! -  - 
+00011 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000005199 ######  OK! -  - 

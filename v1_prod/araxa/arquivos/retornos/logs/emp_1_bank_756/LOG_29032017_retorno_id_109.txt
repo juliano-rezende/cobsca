@@ -1,0 +1,7 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170329_C400_00.ret
+##  Data 29/03/2017
+
+00000 ## COMPENSADO ## TITULO Nº 2631 -  | PARCELA POSSUI PROCEDIMENTO. - 
+00001 ## COMPENSADO ## TITULO Nº 2629 -  - 
+00002 ## COMPENSADO ## TITULO Nº 2630 -  - 

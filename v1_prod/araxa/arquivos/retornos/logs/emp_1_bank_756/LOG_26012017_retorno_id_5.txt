@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170125_C400_00.ret
+##  Data 26/01/2017
+
+00001 TITULO 00000002113 SACADO MARLEI CAETANO RODRIGUES                  TITULO JA PROCESSADO.

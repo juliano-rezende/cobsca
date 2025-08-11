@@ -1,0 +1,6 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20200514_C400_00(4).ret
+##  Data 14/05/2020
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA ## TITULO Nº 00000006313 ######  OK! -  - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA ## TITULO Nº 00000006085 ######  OK! -  - 

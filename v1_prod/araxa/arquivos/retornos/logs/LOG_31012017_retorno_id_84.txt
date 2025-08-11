@@ -1,0 +1,8 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170131_C400_00.ret
+##  Data 31/01/2017
+
+00001 ## COMPENSADO ## TITULO Nº 00000000187
+00001 ## COMPENSADO ## TITULO Nº 187 -  - 
+00002 ## COMPENSADO ## TITULO Nº 00000000826
+00002 ## COMPENSADO ## TITULO Nº 826 -  - 

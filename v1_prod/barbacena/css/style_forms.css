@@ -1,0 +1,259 @@
+/* tamanho de campos*/
+.w_20 {
+    width: 20px;
+}
+.w_30 {
+    width: 30px;
+}
+.w_40 {
+    width: 40px;
+}
+.w_50 {
+    width: 50px;
+}
+
+.w_80 {
+    width: 80px;
+}
+
+.w_100 {
+    width: 100px;
+}
+.w_120 {
+    width: 120px;
+}
+.w_150 {
+    width: 150px;
+}
+
+.w_200 {
+    width: 200px;
+}
+
+.w_220 {
+    width: 220px;
+}
+
+.w_250 {
+    width: 250px;
+}
+
+.w_300 {
+    width: 300px;
+}
+
+.w_350 {
+    width: 350px;
+}
+
+.w_380 {
+    width: 380px;
+}
+
+.w_400 {
+    width: 400px;
+}
+
+
+/*define os botoes soltos dentro dos formularios*/
+
+fieldset a {
+    font-weight: bold;
+    color: #09C;
+    font-size: 15px;
+}
+
+fieldset a:hover {
+    color: #F90;
+}
+
+
+/* formatação do formulario*/
+
+table input,
+select,
+textarea,
+checkbox {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+
+table .input_text {
+    padding: 1px 1px;
+    border: 1px solid #ccc;
+    height: 25px;
+	text-transform:uppercase;
+}
+
+table .input_text:hover {
+    border: 1px double #666;
+}
+
+table .select {
+    padding: 3px 3px;
+    background: #fff;
+    border: 1px solid #ccc;
+    height: 30px;
+}
+
+table .select:hover {
+    border: 1px solid #666;
+}
+
+.uk-form-shadow {
+    background-color: #fff;
+    width: 700px;
+    margin: -10px auto;
+    padding-top: 10px;
+	/*-webkit-box-shadow:  0px 7px 40px -10px rgba(10,1,10,1);
+	-moz-box-shadow:  0px 7px 40px -10px rgba(10,1,10,1);
+	box-shadow:  0px 7px 40px -10px rgba(10,1,10,1);*/
+}
+
+input,
+select,
+textarea,
+label,
+checkbox {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    font-size: 11px;
+}
+
+input,
+select,
+textarea {
+    text-transform: uppercase;
+}
+
+label {
+    text-transform: capitalize;
+}
+form{
+margin-top: 2px;
+}
+
+form fieldset {
+    margin: 0 auto;
+    background-color: #fff;
+    width: 650px;
+    position: relative;
+    top: 0;
+    border: 0px solid #ddd;
+    margin-top: 10px;
+    z-index: 1;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    behavior: url(border-radius.htc);
+}
+
+form legend {
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, .2);
+    padding: 10px;
+    margin-left: -10px;
+    width: 100%;
+    background-color: #009dd8;
+}
+
+form label {
+    width: 100%;
+    display: block;
+    background-color: transparent;
+    padding: 3px 0 3px 0;
+    color: #666;
+}
+
+form label span {
+    display: block;
+    color: #666;
+    font-weight: normal;
+    font-size: 12px;
+    float: left;
+    width: 100px;
+    text-align: right;
+    padding: 5px 20px 0 0;
+}
+
+
+
+form .select {
+    vertical-align: middle;
+    display: inline-block;
+    padding: 3px 3px;
+    background: #fff;
+    border: 1px solid #ccc;
+    height: 30px;
+    box-sizing: border-box;
+    font: inherit;
+	font-weight: normal;
+}
+
+form .select:hover {
+}
+
+form .message {
+    padding: 7px 7px;
+    width: 370px;
+    background: #fff;
+    border: 1px double #ccc;
+    overflow: hidden;
+    height: 150px;
+}
+
+form .button {
+    box-sizing: border-box;
+    font-weight: normal;
+    margin: 0 0 10px 0;
+    padding: 4px 7px;
+    line-height: 20px;
+    background: #F90;
+    color: #fff;
+    margin-top: 10px;
+    width: auto;
+    border: 1px double #fff;
+    border-radius: 4px;
+    min-width: 100px;
+}
+
+form .button:hover {
+    background: #E9FAFC;
+    color: #000;
+    cursor: pointer;
+}
+
+form .select,
+.message {
+    border-radius: 4px;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+
+
+/* Menu flutuante*/
+#menu-float{
+	padding:2px 2px;
+	top:80px;
+	background-color: #009dd8 ;
+	border:1px solid #CCC;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	z-index:1;
+	width:50px;
+	min-height:40px;
+	margin:0 700px;
+	position: absolute;
+	}
+
+
+

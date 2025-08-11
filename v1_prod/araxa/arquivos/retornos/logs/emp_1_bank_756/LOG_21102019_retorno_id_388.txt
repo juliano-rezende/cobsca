@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20191021_C400_00.ret
+##  Data 21/10/2019
+
+00001 ## BAIXA AUTOMATICA PELO BANCO TITULO VENCIDO A MAIS DE 90 DIAS ## TITULO Nº 00000005392 ######  OK!

@@ -1,0 +1,6 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20190612_C400_00 (6).ret
+##  Data 12/06/2019
+
+00001 ## TITULO JÁ PROCESSADO ## TITULO Nº 00000005006-8
+00002 ## TITULO JÁ PROCESSADO ## TITULO Nº 00000005451-7

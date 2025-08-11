@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170731_C400_00(4).ret
+##  Data 31/07/2017
+
+00001 ## TITULO PAGO EM DUPLICIDADE OU PAGO NO CEDENTE ## TITULO Nº 00000001336-8

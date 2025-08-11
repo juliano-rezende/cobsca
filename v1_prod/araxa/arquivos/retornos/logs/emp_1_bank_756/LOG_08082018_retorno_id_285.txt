@@ -1,0 +1,18 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20180806_C400_00.ret
+##  Data 08/08/2018
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003543 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004077 ######  OK! -  - 
+00003 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004101 ######  OK! -  - 
+00004 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003399 ######  OK! -  - 
+00005 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003400 ######  OK! -  - 
+00006 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003544 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00007 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003640 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00008 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004161 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00009 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003042 ######  OK! -  - 
+00010 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003885 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00011 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003521 ######  OK! -  - 
+00012 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002761 ######  OK! -  - 
+00013 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004525 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00014 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002969 ######  OK! -  - 

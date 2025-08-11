@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20191127_C400_00.ret
+##  Data 27/11/2019
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA ## TITULO Nº 00000005183 ######  OK! -  - 

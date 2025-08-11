@@ -1,0 +1,8 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170814_C400_00(2).ret
+##  Data 14/08/2017
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002042 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000001440 ######  OK! -  - 
+00003 ## TITULO PAGO EM DUPLICIDADE OU PAGO NO CEDENTE ## TITULO Nº 00000000153-0
+00004 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002187 ######  OK! -  - 

@@ -1,0 +1,7 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170620_C400_00.ret
+##  Data 20/06/2017
+
+00000 ## COMPENSADO ## TITULO Nº 818 -  - 
+00000 ## COMPENSADO ## TITULO Nº 771 -  - 
+00000 ## COMPENSADO ## TITULO Nº 817 -  - 

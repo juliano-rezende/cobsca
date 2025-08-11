@@ -1,0 +1,6 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170703_C400_00.ret
+##  Data 05/07/2017
+
+00002 ## COMPENSADO ## TITULO Nº 00000000445 -  - 
+00003 ## COMPENSADO ## TITULO Nº 00000001119 -  | PARCELA POSSUI PROCEDIMENTO. - 

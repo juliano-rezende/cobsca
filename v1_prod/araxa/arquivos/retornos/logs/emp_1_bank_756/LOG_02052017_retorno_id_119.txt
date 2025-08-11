@@ -1,0 +1,9 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20170502_C400_00.ret
+##  Data 02/05/2017
+
+00000 ## COMPENSADO ## TITULO Nº 1441 -  - 
+00001 ## COMPENSADO ## TITULO Nº 1816 -  | PARCELA POSSUI PROCEDIMENTO. - 
+00002 ## COMPENSADO ## TITULO Nº 1141 -  - 
+00003 ## COMPENSADO ## TITULO Nº 2284 -  - 
+00004 ## COMPENSADO ## TITULO Nº 1815 -  - 

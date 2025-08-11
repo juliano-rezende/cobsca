@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+
+  painel-web:
+    container_name: Painel-DellaConsul-Web
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "8081:80"
+    volumes:
+      - "../..:/var/www/painel"
+    networks:
+      - panelNetwork
+
+networks:
+  panelNetwork:
+    driver: bridge

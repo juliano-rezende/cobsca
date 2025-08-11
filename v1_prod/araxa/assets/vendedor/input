@@ -1,0 +1,75 @@
+<?php
+require_once"../../sessao.php";
+?>
+<div class="tabs-spacer" style="display:none;">
+
+<?php
+// blibliotecas
+require_once("../../conexao.php");
+$cfg->set_model_directory('../../models/');
+
+$FRM_vendor_id    = isset( $_GET['vendedor_id'])    ? $_GET['vendedor_id']            : tool::msg_erros("O Campo vendedor_id é Obrigatorio.");
+
+$Query_vendedores=conv_vendor::find_by_sql("SELECT convenios.id,convenios.nm_fantasia,conv_vendor.status FROM conv_vendor LEFT JOIN convenios ON convenios.id = conv_vendor.convenios_id WHERE vendedores_id='".$FRM_vendor_id."' ORDER BY id");
+
+$List_vendedores   = new ArrayIterator($Query_vendedores);
+
+
+$lf="1";
+?>
+</div>
+
+<style>
+#menu-float a{ background-color:transparent;}
+.uk-text-warning {
+    color: #F90 !important
+}
+#Novoconvenio  span{  width:150px;  }
+</style>
+
+
+<nav class="uk-navbar">
+<table  class="uk-table" >
+  <thead >
+    <tr style="line-height: 20px;">
+        <th class="uk-width uk-text-left" style="width:20px;"></th>
+        <th class="uk-text-left "   >Nome Fantasia</th>
+        <th class="uk-width uk-text-center" style="width:100px;" >Ações</th>
+    </tr>
+    </thead>
+ </table>
+</nav>
+
+<div id="GridSubconvenios" style="height:380px; overflow-y:scroll;">
+<table  class="uk-table uk-table-striped uk-table-hover" >
+  <tbody >
+<?php
+// laço que loopa os lançamentos dos convenios  agrupando por data
+$List_vendor= new ArrayIterator($List_vendedores);
+while($List_vendor->valid()):
+
+?>
+    <tr style="line-height: 20px;" data-sub="<?php echo $List_vendor->current()->id; ?>">
+        <th class="uk-width uk-text-center " style="width:20px;" ><?php echo $lf; ?></th>
+        <td class=" uk-text-left uk-text-uppercase"   ><?php echo $List_vendor->current()->nm_fantasia; ?></td>
+        <td class="uk-text-center" ><td class="uk-width uk-text-center" style="width:100px;" >
+        <?php if($List_vendor->current()->status == 0): ?>
+        <a class="uk-icon-check uk-icon-medium BtnEnabledSub" style="margin-left:10px;" data-uk-tooltip="{pos:'left'}" title="Habilitar" data-cached-title="Habilitar"></a>
+        <?php else: ?>
+        <a class="uk-icon-times-circle uk-icon-medium BtnDisabledSub" style="margin-left:10px;" data-uk-tooltip="{pos:'left'}" title="Desabilitar" data-cached-title="Desabilitar"></a>
+        <?php endif; ?>
+        </td>
+    </tr>
+<?php
+$lf++;
+$List_vendor->next();
+endwhile;
+?>
+</tbody>
+</table>
+</div>
+
+<script type="text/javascript" >
+
+
+</script>

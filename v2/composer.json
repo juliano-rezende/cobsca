@@ -1,0 +1,37 @@
+{
+  "name": "vendor_name/v01",
+  "description": "Dash - futurapay",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Juliano",
+      "email": "julianoreze@gmail.com",
+      "role": "Developer",
+      "homepage": "https://cobsca.com.br"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\":"source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "php": "7.3.*",
+    "coffeecode/datalayer": "1.1.*",
+    "coffeecode/router": "1.0.*",
+    "coffeecode/paginator": "1.0.*",
+    "phpmailer/phpmailer": "v6.3.*",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-pdo": "*",
+    "league/plates": "v4.0.0-alpha"
+
+  }
+}

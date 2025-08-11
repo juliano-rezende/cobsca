@@ -1,0 +1,17 @@
+SELECT
+  `faturamentos`.`status` AS `status1`,
+  `faturamentos`.`dt_pagamento`,
+  `faturamentos`.`valor`,
+  `associados`.`nm_associado`,
+  `associados`.`status`,
+ 
+  (SELECT count(associados.matricula) FROM associados WHERE associados.status = '0' and associados.data_ultima_alteracao BETWEEN  '2016-04-01' AND '2016-04-31' ) as total_fev
+FROM
+  `faturamentos`
+  left JOIN `associados` ON `faturamentos`.`matricula` =
+`associados`.`matricula`
+WHERE
+  `faturamentos`.`status` = 1 AND
+  `faturamentos`.`dt_pagamento` >= '2016-12-01' AND
+  `faturamentos`.`dt_pagamento` <= '2016-12-31' 
+GROUP BY faturamentos.matricula;

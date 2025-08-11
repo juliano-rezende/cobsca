@@ -1,0 +1,5 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20210927_C400_00.ret
+##  Data 27/09/2021
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA ## TITULO Nº 00000007214 ######  OK! -  | ASSOCIADO ASSEGURADO! - 

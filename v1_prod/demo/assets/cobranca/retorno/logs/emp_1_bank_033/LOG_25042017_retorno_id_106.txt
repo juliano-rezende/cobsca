@@ -1,0 +1,6 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO COBST_YB3T_02_130417P_MOV.TXT
+##  Data 25/04/2017
+
+00001 ## COMPENSADO ## TITULO Nº 658 -  | PARCELA POSSUI PROCEDIMENTO. - 
+00002 ## COMPENSADO ## TITULO Nº 885 -  | PARCELA POSSUI PROCEDIMENTO. - 

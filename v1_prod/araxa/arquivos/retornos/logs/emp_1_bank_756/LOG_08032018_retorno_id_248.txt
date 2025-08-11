@@ -1,0 +1,27 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20180308_C400_001.ret
+##  Data 08/03/2018
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004096 ######  OK! -  - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002864 ######  OK! -  - 
+00003 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003048 ######  OK! -  - 
+00004 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003360 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00005 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003647 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00006 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003671 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00007 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003468 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00008 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003516 ######  OK! -  - 
+00009 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003587 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00010 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002756 ######  OK! -  - 
+00011 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004084 ######  OK! -  - 
+00012 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003120 ######  OK! -  - 
+00013 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003288 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00014 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000002792 ######  OK! -  - 
+00015 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003755 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00016 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003868 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00017 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003492 ######  OK! -  - 
+00018 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004060 ######  OK! -  - 
+00019 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004072 ######  OK! -  - 
+00020 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003276 ######  OK! -  - 
+00021 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003695 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00022 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003976 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00023 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004120 ######  OK! -  - 

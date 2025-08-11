@@ -1,0 +1,8 @@
+########################################### ARQUIVO DE LOG DE TRATAMENTO DO RETORNO ###########################################
+##  ARQUIVO 3094_00327964_20180605_C400_00.ret
+##  Data 05/06/2018
+
+00001 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000003435 ######  OK! -  - 
+00002 ## TITULO COMPENSADO EM REDE BANCARIA                           ## TITULO Nº 00000004027 ######  OK! -  | ASSOCIADO ASSEGURADO! - 
+00003 ## TITULO JÁ PROCESSADO ## TITULO Nº 00000003541-7
+00004 ## TITULO JÁ PROCESSADO ## TITULO Nº 00000003540-0
